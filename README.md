@@ -63,9 +63,11 @@ Web-Development-Project-master/
 - **Database Integration**: Store user data and history.
 - **More Entrance Exams**: Expand eligibility criteria for more universities.
 - **Enhanced UI**: Improve design and user experience.
+## Screenshots
+
+<img src = "https://raw.githubusercontent.com/ak17740/college-predictor/refs/heads/main/ScreenShots/image.png" height = "500">
 
 
----
 **Author**: Ayush Kumar  
 **Website**: [your-website.com](https://your-website.com)
 
